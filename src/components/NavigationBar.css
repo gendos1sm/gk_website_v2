@@ -1,0 +1,26 @@
+.navigation-bar {
+  padding: 10px 20px;
+  background-color: #188754;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-button {
+  margin-left: 10px;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #28a745;
+  color: white;
+  border: none;
+}

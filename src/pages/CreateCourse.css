@@ -1,0 +1,30 @@
+.create-course-container {
+    padding: 50px 0;
+  }
+  
+  .create-course-container h1, .create-course-container h2 {
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  
+  .create-course-container p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #6c757d;
+    margin-bottom: 30px;
+  }
+  
+  .create-course-container .form-check {
+    margin-bottom: 20px;
+  }
+  
+  .create-course-container .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .create-course-container .btn {
+    background-color: #28a745;
+    border: none;
+    margin-right: 10px;
+    margin-top: 20px;
+  }

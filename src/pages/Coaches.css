@@ -1,0 +1,30 @@
+.coaches-container {
+    padding: 50px 0;
+  }
+  
+  .coach-card {
+    margin-bottom: 30px;
+  }
+  
+  .coach-card img {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .coach-card .card-body {
+    text-align: center;
+  }
+  
+  .coach-card .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .coach-card .card-text {
+    margin-bottom: 20px;
+  }
+  
+  .coach-card .btn {
+    background-color: #28a745;
+    border: none;
+  }

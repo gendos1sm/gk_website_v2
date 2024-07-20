@@ -1,0 +1,18 @@
+.hero {
+    background-image: url('../assets/goalie.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 300px 0;
+    text-align: center;
+    height: 90vh;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
